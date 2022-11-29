@@ -1,6 +1,6 @@
 # Angry
 
-This is was my first ever project which I made using python. Aim to make this project was to learn about various networking protocols, how does client serer communication works and some very basic malwares.
+This was my first ever project which I made using python. Aim to make this project was to learn about various networking protocols, how does client serer communication works and some very basic malwares.
 
 # Features
 
